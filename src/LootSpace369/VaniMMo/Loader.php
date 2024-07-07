@@ -7,7 +7,7 @@
 ██    ██ ███████ ██ ██  ██ ██ ██ ████ ██ ██ ████ ██ ██    ██ 
  ██  ██  ██   ██ ██  ██ ██ ██ ██  ██  ██ ██  ██  ██ ██    ██ 
   ████   ██   ██ ██   ████ ██ ██      ██ ██      ██  ██████  
-        copyright © 2024 - 2024 LootSpace369 - All Rights Reserved.
+   copyright © 2024 - 2024 LootSpace369 - All Rights Reserved.
 */
 
 declare(strict_types = 1);
