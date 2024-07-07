@@ -1,5 +1,6 @@
 # VaniMMo
 An MMo support plugin for servers.
+<img src="img\MMoItem.png">
 ## Why VaniMMo?
 - There are many features
 - Quick, easy
