@@ -30,7 +30,7 @@ class BossCommand extends Command implements PluginOwned {
 		}else{
                         BossForm::getInstance()->sendMain($sender);
 		return true;
-    }
-    return false;
+                }
+          return false;
 	}
 }
