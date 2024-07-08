@@ -28,7 +28,7 @@ class BossCommand extends Command implements PluginOwned {
 			$sender->sendMessage("Please use this command in-game!");
 			return false;
 		}else{
-      BossForm::getInstance()->sendMain($sender);
+                        BossForm::getInstance()->sendMain($sender);
 		return true;
     }
     return false;
