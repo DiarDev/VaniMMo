@@ -6,11 +6,6 @@ An MMo support plugin for servers.<br>
 - There are many features
 - Quick, easy
 ## What will it support?
-- Clan: parties, create a clan's own area
-- Boss: powerful creatures
-- Stats: statistics table
-- Pet: pet
-- Skill: skills
-- Item: Customize item attributes
+<img src="img\Contributors.png" width=960px height=540px>
 ## Information
-Currently not available
+<img src="img\infodev.png" width=600 height=454px>
