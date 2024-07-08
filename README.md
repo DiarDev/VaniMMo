@@ -7,5 +7,6 @@ An MMo support plugin for servers.<br>
 - Quick, easy
 ## What will it support?
 <img src="img\Contributors.png" width=480px height=270px border-style="solid" border-color="white">
+
 ## Information
 <img src="img\infodev.png" width=300 height=140px border-style="solid" border-color="white">
